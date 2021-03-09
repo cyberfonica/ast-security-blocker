@@ -1,0 +1,2 @@
+# Extra security scanner
+* * * * * /usr/bin/python3 /usr/local/bin/cyber-security-logger.py
